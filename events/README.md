@@ -20,9 +20,15 @@ So you want to plan an event! Excellent! Here is a general checklist:
       Collect RSVPs
 - [ ] Advertise the event THE WEEK OF. Publicity should use multiple modalities including word of mouth, slack, AND email.
 
-### General Advice on Logistics
+### General Event Planning Philosophy
+  * Less can be more. Sometimes two events per semester can have better attendance than the aggregate of a weekly event throughout the entire semester.
+  * If an event has previously been held, and has had issues with attendence, the event should be critically examined to see if holding the event again is a good use of CSGSA resources. Let's learn from the past!
+  * Planning all events at the beginning of the year is the best way to ensure events are sprinkled evenly throughout the year and to avoid schedule conflicts.
+  * Do NOT promise anyone anything (swag, food, etc.) unless you already have it ordered.
+  * Word of mouth can be the most effective way to promote events.
+  * When planning an event, make sure to ask yourself, "What does this event provide that other events on campus do not already provide?"
 
-Things to keep in mind:
+### General Advice on Logistics
 * **Zoom:** Using breakout rooms can be more successful than using multiple zoom meetings for events such as mock interviews
 * **Name Tags:** Name tags for attendees is a recommendation to promote community. If inviting staff/faculty/people from outside, have their names printed. Otherwise sticky tags are enough
 * **Room reservations:**
@@ -40,12 +46,4 @@ Things to keep in mind:
   * 4imprints is a nice vendor for this stuff.
   * While ordering swag, keep in mind that bulk orders are cheaper.
 
-  ### General Event Planning Philosophy
-
-  * Less can be more. Sometimes two events per semester can have better attendance than the aggregate of a weekly event throughout the entire semester.
-  * If an event has previously been held, and has had issues with attendence, the event should be critically examined to see if holding the event again is a good use of CSGSA resources. Let's learn from the past!
-  * Planning all events at the beginning of the year is the best way to ensure events are sprinkled evenly throughout the year and to avoid schedule conflicts.
-  * Do NOT promise anyone anything (swag, food, etc.) unless you already have it ordered.
-  * Word of mouth can be the most effective way to promote events.
-  * When planning an event, make sure to ask yourself, "What does this event provide that other events on campus do not already provide?"
 
