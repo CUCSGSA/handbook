@@ -2,7 +2,7 @@
 
 This directory contains information on events CSGSA has held in the past. The goal is that these records will help give context to CSGSA history and allow CSGSA to learn from previous experiences.
 
-## How to Plan An Events
+## How to Plan An Event
 
 So you want to plan an event! Excellent! Here is some advice:
 
