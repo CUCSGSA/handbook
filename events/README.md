@@ -23,18 +23,22 @@ So you want to plan an event! Excellent! Here is a general checklist:
 ### General Advice on Logistics
 
 Things to keep in mind:
-* **Zoom** Using breakout rooms can be more successful than using multiple zoom meetings for events such as mock interviews
-* **Name Tags**: Name tags for attendees is a recommendation to promote community. If inviting staff/faculty/people from outside, have their names printed. Otherwise sticky tags are enough
-* **Room reservations**:
+* **Zoom:** Using breakout rooms can be more successful than using multiple zoom meetings for events such as mock interviews
+* **Name Tags:** Name tags for attendees is a recommendation to promote community. If inviting staff/faculty/people from outside, have their names printed. Otherwise sticky tags are enough
+* **Room reservations:**
   * DLC1B70 is what you would use for most events. **If using DLC, make sure all the tables are clean and aligned properly and in the correct places otherwise you will have to pay a fine.**
   * Should be available in EMS(ems.colorado.edu) under Staff/faculty no recursive events.
   * Other alternatives depending on the situation can include KITTEREDGE central (this room is paid and we use this only for large events w/ speakers)
   * ATLAS 100 is a nice room (similar option is ECCR 265).
   * Some other potential places that we didn’t explore as much: BOLD center, Idea Forge. You can book rooms through ems.colorado.edu
-  * 
-* **Storage**Items for events may be stored in CS staff offices; ask for permission and make sure you will be able to get into the office at the correct time on the day of the event. 
-* **Food orders**: make sure you decide and order food for the event at least 2 weeks in advance. If you are using Dept funding, Nicole can place the order for you, and you just need to make sure you get the receipt and keep it safe. If using CSI, same process, CSI will order for you, and you keep and upload the receipt to them. If you’re ordering food for events(mock interviews, P2P), make sure to place orders at least 3 weeks - 1 months in advance.
-** If you are sending out RSVPs, send out to listserv, ask someone for a list of the servs.
+* **Storage:** Items for events may be stored in CS staff offices; ask for permission and make sure you will be able to get into the office at the correct time on the day of the event. 
+* **Food orders:** make sure you decide and order food for the event at least 2 weeks in advance. If you are using Dept funding, Nicole can place the order for you, and you just need to make sure you get the receipt and keep it safe. If using CSI, same process, CSI will order for you, and you keep and upload the receipt to them. If you’re ordering food for events(mock interviews, P2P), make sure to place orders at least 3 weeks - 1 months in advance.
+* **RSVP:** If you are sending out RSVPs, send out to listserv, ask someone for a list of the servs.
+* **Swag:**
+  * If you are using the CU logo, you have to get approval from strategic relations.
+  * If you are using just the GPDC or CSGSA logo, you need not get approval. CSGSA has some approved designs in a private repo [here](https://github.com/CUCSGSA/designs)
+  * 4imprints is a nice vendor for this stuff.
+  * While ordering swag, keep in mind that bulk orders are cheaper.
 
   ### General Event Planning Philosophy
 
@@ -44,3 +48,4 @@ Things to keep in mind:
   * Do NOT promise anyone anything (swag, food, etc.) unless you already have it ordered.
   * Word of mouth can be the most effective way to promote events.
   * When planning an event, make sure to ask yourself, "What does this event provide that other events on campus do not already provide?"
+
