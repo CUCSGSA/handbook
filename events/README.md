@@ -45,5 +45,6 @@ So you want to plan an event! Excellent! Here is a general checklist:
   * If you are using just the GPDC or CSGSA logo, you need not get approval. CSGSA has some approved designs in a private repo [here](https://github.com/CUCSGSA/designs)
   * 4imprints is a nice vendor for this stuff.
   * While ordering swag, keep in mind that bulk orders are cheaper.
+  * We have ordered cheap Hanes shirts in the past, but they were so rough to wear it caused discomfort for some students. It's recommended to pay more for a higher quality tshirt. Also make sure to buy shirts in a range of sizes.
 
 
