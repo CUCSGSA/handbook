@@ -1,4 +1,3 @@
-TODO: Write about good practices for elections and voting.
 There are two stages to setting up an election:
 - Candidates self-nominate themselves for positions (form has to stay open for two weeks)
 - Then we run the actual election amongst those candidates (form has to stay open for one week)
